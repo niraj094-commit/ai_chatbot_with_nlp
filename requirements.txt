@@ -1,0 +1,7 @@
+spacy
+requests
+python-dotenv
+
+
+# Also make sure to download the Langugage Model using:
+# python -m spacy download en_core_web_sm

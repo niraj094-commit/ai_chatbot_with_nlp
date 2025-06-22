@@ -1,0 +1,20 @@
+{
+  "What is your name?": "I am your friendly terminal chatbot.",
+  "Who created you?": "I was developed using Python, spaCy, and Gemini API for an internship project.",
+  "What can you do?": "I can chat with you, understand your feelings, and even answer complex questions using AI.",
+  "How to enable AI mode?": "Type /mode advanced to enable Gemini AI (internet required).",
+  "What is NLP?": "NLP stands for Natural Language Processing. It helps computers understand human language.",
+  "What is spaCy?": "spaCy is a powerful open-source library for Natural Language Processing in Python.",
+  "What is Gemini API?": "Gemini is Google's powerful generative AI model for advanced text-based tasks.",
+  "How can I exit the chatbot?": "Just type /exit or say 'bye'.",
+  "How can I see available commands?": "Type /help to see all supported commands.",
+  "Is this chatbot online or offline?": "Basic responses are offline. Advanced mode uses the internet.",
+  "Can you feel emotions?": "Not exactly, but I can recognize if you're happy or sad based on your message.",
+  "Can I use this chatbot for other projects?": "Yes! You can reuse or modify it freely under your internship/project needs.",
+  "Do you support voice input?": "Currently, I only work with text input through the terminal.",
+  "What happens in advanced mode?": "In advanced mode, I send your query to Gemini API to give intelligent responses.",
+  "Is the AI mode free to use?": "No, Gemini API may have quotas or billing depending on your usage.",
+  "Can I add more questions?": "Yes! You can edit faqs.json and add more Q&A pairs as needed.",
+  "What is Python?": "Python is a popular, easy-to-learn programming language used for AI, web, data science, and more.",
+  "What is AI?": "AI (Artificial Intelligence) is the ability of machines to mimic human intelligence tasks."
+}
