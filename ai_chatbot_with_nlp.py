@@ -7,6 +7,9 @@ import datetime
 from dotenv import load_dotenv
 from spacy.matcher import Matcher, PhraseMatcher
 
+# To make sure this file Runs in the current folder on double clicking this file
+os.chdir(os.path.dirname(os.path.abspath(__file__)))
+
 # Load environment variables from .env ofc!!
 load_dotenv()
 GOOGLE_API_KEY = os.getenv("GOOGLE_API_KEY")
