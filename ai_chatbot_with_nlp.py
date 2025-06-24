@@ -168,7 +168,7 @@ def ask_gemini_api(query):
         data = response.json()
         return data["candidates"][0]["content"]["parts"][0]["text"]
     except Exception as e:
-        return f"⚠️ Error calling Gemini: {str(e)}"
+        return f"⚠️ Error calling Gemini: {str(e)}\nAPI_KEY missing or invalid. Read the README.md file to know more.\nU can now type '/mode basic' to use the offline rule-based NLP mode."
 
 
 # Help text
